@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 nav{
     display: flex;
@@ -75,7 +75,7 @@ span{
 .about-me{
     
     padding-left: 25px;
-    margin-top: 70px;
+    margin-top: 40px;
 }
 .section-4{
 
